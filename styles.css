@@ -1,0 +1,59 @@
+body {
+    text-align: center;
+    color: #121212;
+}
+h1 {
+    margin-bottom: 5px;
+}
+
+img {
+    width: 35%;
+    display: block;
+    margin: 5px auto 5px;
+    border: 10px solid black;
+    border-radius: 3px;
+}
+
+.email-input, .btn {
+    width: 17%;
+    font-size: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border: 3px solid black;
+}
+.email-input {
+    background: white;
+    font-size: 20px;
+    margin-top: 2%;
+    margin-bottom: 8px;
+    padding: 1px;
+    box-sizing: border-box;
+}
+
+.btn {
+    color: white;
+    background: black;
+    margin-top: 8px;
+    padding-inline: 1px;
+    padding: 1px;
+    cursor: pointer;
+}
+
+p {
+    width: 35%;
+    display: block;
+    margin-top: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    font-style: italic;
+    font-size: 20px;
+}
+
+.terms, .terms a {
+    margin-top: 40px;
+    font-size: 16px;
+    text-align: center;
+    color: #121212;
+}
